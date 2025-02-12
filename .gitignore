@@ -1,0 +1,10 @@
+# Flutter ignores
+flutter_app/.dart_tool/
+flutter_app/build/
+flutter_app/.idea/
+
+# VS API ignores
+api_backend/bin/
+api_backend/obj/
+api_backend/.vs/
+api_backend/*.user

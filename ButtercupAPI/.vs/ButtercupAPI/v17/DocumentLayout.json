@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|c:\\users\\talzi\\source\\repos\\buttercupapi\\buttercupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|solutionrelative:buttercupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|c:\\users\\talzi\\source\\repos\\buttercupapi\\buttercupapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|solutionrelative:buttercupapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EAD05-4C6D-4FE5-9EBB-002206DD0FF4}|Fleet.Models\\Fleet.Models.csproj|c:\\users\\talzi\\source\\repos\\buttercupapi\\fleet.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EAD05-4C6D-4FE5-9EBB-002206DD0FF4}|Fleet.Models\\Fleet.Models.csproj|solutionrelative:fleet.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA4C8AD-318B-4D59-B40F-50200A1D8FFB}|Fleet\\Fleet.csproj|c:\\users\\talzi\\source\\repos\\buttercupapi\\fleet\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA4C8AD-318B-4D59-B40F-50200A1D8FFB}|Fleet\\Fleet.csproj|solutionrelative:fleet\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|c:\\users\\talzi\\source\\repos\\buttercupapi\\buttercupapi\\controllers\\fleetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|solutionrelative:buttercupapi\\controllers\\fleetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|c:\\users\\talzi\\source\\repos\\buttercupapi\\buttercupapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|solutionrelative:buttercupapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|c:\\users\\talzi\\source\\repos\\buttercupapi\\buttercupapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EC6939-CEDA-4A30-92E3-89413B888926}|ButtercupAPI\\ButtercupAPI.csproj|solutionrelative:buttercupapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ButtercupAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\appsettings.json",
+              "RelativeToolTip": "ButtercupAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T20:48:24.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ButtercupAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ButtercupAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T20:46:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\Fleet.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Fleet.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\Fleet.Models\\Class1.cs",
+              "RelativeToolTip": "Fleet.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:59:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\Fleet\\Class1.cs",
+              "RelativeDocumentMoniker": "Fleet\\Class1.cs",
+              "ToolTip": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\Fleet\\Class1.cs",
+              "RelativeToolTip": "Fleet\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:57:07.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FleetController.cs",
+              "DocumentMoniker": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\Controllers\\FleetController.cs",
+              "RelativeDocumentMoniker": "ButtercupAPI\\Controllers\\FleetController.cs",
+              "ToolTip": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\Controllers\\FleetController.cs",
+              "RelativeToolTip": "ButtercupAPI\\Controllers\\FleetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:42:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ButtercupAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ButtercupAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:40:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ButtercupAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\talzi\\source\\repos\\ButtercupAPI\\ButtercupAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "ButtercupAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:38:18.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
